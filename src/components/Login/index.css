@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.login-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.login-button {
+  padding: 10px 20px 10px 20px;
+  cursor: pointer;
+}
